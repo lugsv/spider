@@ -1,0 +1,12 @@
+Create\ Empty\ Directories=true
+Password=webftp_1234
+Recurse\ Subdirectories=true
+Save\ Password=true
+Site\ Root=/spider/
+Username=webftp
+eclipse.preferences.version=1
+port=21
+protocol=1
+server=192.168.1.69
+timeout=30
+verified=true
